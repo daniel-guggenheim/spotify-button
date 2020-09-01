@@ -1,0 +1,6 @@
+.idea
+*.ipynb
+
+# project related
+secrets.yaml
+.cache*

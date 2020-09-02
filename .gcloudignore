@@ -1,7 +1,9 @@
+.gcloudignore
+.git
+.gitignore
+
 .idea
 *.ipynb
-__pycache__/
 
 # project related
 secrets.yaml
-.cache*
